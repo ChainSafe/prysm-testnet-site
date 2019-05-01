@@ -32,7 +32,7 @@
     "@nguniversal/module-map-ngfactory-loader": "0.0.0",
     "@ngx-pwa/local-storage": "7.4.1",
     "@portis/web3": "2.0.0-beta.11",
-    "core-js": "2.6.5",
+    "core-js": "3.0.1",
     "ethers": "^4.0.27",
     "express": "^4.15.2",
     "google-protobuf": "3.7.0-rc.2",
